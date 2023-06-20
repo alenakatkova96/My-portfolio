@@ -36,5 +36,5 @@
 - прыгнуть с парашютом
 - заняться банджи-джампингом
   
-![test_image](https://photos.app.goo.gl/6vZzc1TgJfcabt8v9) 
+![test_image](https://drive.google.com/uc?export=view&id=1m4vICW5ZTFXLvYbaGufIS5l_NbwihOuC) 
 
