@@ -34,7 +34,7 @@
 - найти друга в другой стран
 - посетить Новую Зеландию
 - прыгнуть с парашютом
-- заняться банджи-джампингом
+- заняться bungee jumping
   
 ![test_image](https://drive.google.com/uc?export=view&id=1m4vICW5ZTFXLvYbaGufIS5l_NbwihOuC) 
 
